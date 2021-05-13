@@ -1,0 +1,90 @@
+Breadcrumb:
+	Ability to show/hide breadcrumb links
+	
+product sidebar
+	Ability to add contents like collection list,page, menu ...etc
+	Ability to toggle sidebar contents
+	
+
+Product
+	product gallery
+		Ability to show/hide thubnails
+		Ability to show/hide arrows(only applies to desktop)
+		Ability to enable lightbox
+		Ability to magnify product images on hover
+		Ability to adjust gallery speed(limit 0s to 6s)
+		Ability to mangae gallery transition (slide/fade)
+		Ability to manage thubnails position
+		Ability to enable thubnails slider
+	
+	Product Information
+		Ability to show/hide vendor
+		Ability to show/hide SKU
+		Ability to show/hide collections
+		Ability to show/hide type
+		Ability show/hide tags
+		Ability show/hide social media share icons
+		Ability to manage description position(Above product form, below product form)
+		Ability to show/hide dynamic checkout button
+		
+		
+	Media
+		Ability to adjust media position(left, right)
+		Ability to set height of product media(200 to 800)
+		Ability to enable video looping
+		
+
+Product Review
+	
+	Ability to display star rating on product
+	Ability to adjust reviews position(in product description area, in image/description)
+	
+Recently viewed products
+	
+	Ability to show/hide recently viewed product
+	Ability to change the title of the recently viewed products
+	Ability to change the layout(slider / grid)
+	Ability to limit the products(limit 3 to 10)
+	Ability to show product per row(3 to 5)
+	
+	
+Common Theme settings related to PDP
+
+	Ability to change the color of the regular text
+	Ability to enable arrows background
+	Ability to change the image loading styles(blur, fade, appear)
+	Ability to show/hide product stickers
+	
+Size chart
+************
+	Ability to add size chart by selecting a page
+	
+Recommendations
+***************
+	ability to show/hide dynamic recommendation
+	ability to change layout(slider, grid)
+	ability to change heading
+	ability to limit products per row(2 to 5)
+	ability to limit products(2 to 10)
+	
+	
+Common settings
+********************	
+Ability to show price for sold out items
+Ability to select the currency format(applyes to all currency convertion)
+Ability to change the option styles(select dropdown, list , color swatches)
+Ability to limit quantity to available inventory
+Ability to show inventory remaining.
+Ability to limit inventory remaining threshold(1 to 100)
+Ability to show/hide quantity box
+Ability to choose the cart type(mini cart, refresh, page checkout)
+Ability to enable back in stock request form
+Ability to enable back in stock request form text
+Ability to add twitter links
+Ability to enable reviews
+Ability to choose product per row on mobile
+
+
+	
+	
+	
