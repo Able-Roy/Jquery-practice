@@ -86,5 +86,185 @@ Ability to choose product per row on mobile
 
 
 	
-	
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Do not currently have our logo in use' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127189;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Do not have an agreement signed at present. Scott to arrange for paperwork to be raised.' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127190;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Currently use Codeweavers. Have discussed our calculator previously and will advise if want to move forward. As we can not quote on LCV at this time not looking to use  but will advise if this changes.' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127191;
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Yes' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127192;
+
+
+    INSERT INTO `santander_live`.`dealershipvisitreportactions` (`dealershipvisitreportcontrolscartid`, `action`, `bywho`, `bywhen`) VALUES ('1127192', 'Raise Trademark agreement paperwork', 'Scott Pillinger', '2021-05-31'), ('1127192', 'Send over Video Descriptors and logo\'s', 'Scott Pillinger', '2021-05-31');
+    
+    
+    
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Pay plan incorporates Customer Survey scores to ensure good outcomes.' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127193;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Yes' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127194;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Have a structured sales process - \'selling in a box\' is MD brain child which is the group process.' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127195;
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Automated' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127196;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Yes' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127197;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Yes' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127198;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Yes' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127199;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Yes' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127200;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Demands and Needs system is called - Premier Solutions. Use Reef as a DMS' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127201;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Volume - £7,623,379 for Quarter and this was during a period where group felt finance pen should have been improved.' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127203;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = '76.1%  - which was good.' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127204;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = '67.7% - which is a good ' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127205;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Have adopted a 4.9% Fixed APR model' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127206;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'N\/A' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127207;
+
+
+    INSERT INTO `santander_live`.`dealershipvisitreportactions` (`dealershipvisitreportcontrolscartid`, `action`, `bywho`, `bywhen`) VALUES ('1127207', 'Scott to start sending a weekly report showing deals that have been accepted over 1 week and not funded..', 'Scott Pillinger', '2021-05-31');
+    
+    
+    
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = '0 Complaints - below 2% Trigger' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127209;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = '2 Withdrawals - 0.34%. Which is below the 1.5% Trigger.' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127210;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = '3 settlements - which is 0.51% and under 6% trigger' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127211;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = '0 Complaints - and below 1% trigger' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127212;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = '0% and below 0.8% trigger' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127213;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = '4% for quarter -  will continue to look to increase to 90%' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127214;
+
+
+    INSERT INTO `santander_live`.`dealershipvisitreportactions` (`dealershipvisitreportcontrolscartid`, `action`, `bywho`, `bywhen`) VALUES ('1127214', 'BDM to retrain sites to increase over useage.', 'SCUK BDM Teams', '2021-06-30');
+    
+    
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Have offered self funded warranty\'s for past 5/6 years. Will confirm size of pot and burn rate.' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127215;
+
+
+    INSERT INTO `santander_live`.`dealershipvisitreportactions` (`dealershipvisitreportcontrolscartid`, `action`, `bywho`, `bywhen`) VALUES ('1127215', 'Will confirm approx size of pot and burn rate', 'SCUK BDM Teams', '2021-05-31');
+    
+    
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'No' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127217;
+
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'No' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127218;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Yes' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127219;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Looking to reintroduce again.. Do have FCA compliance training each year for all staff.' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127220;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'No' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127222;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Not looking to change profiles at this time and most sites are Franchised' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127223;
+
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'No at this time' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127224;
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'No' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127225;
+
+
+
+
+
+UPDATE `santander_live`.`dealershipvisitreportcontrolscart` SET `answer` = 'Wholesale funding is provided by the manufacturers.' WHERE `dealershipvisitreportcontrolscart`.`recid` =1127226;
+ 
+
+
 	
